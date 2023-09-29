@@ -1,0 +1,40 @@
+form {
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 10px;
+}
+
+input {
+    background-color: dimgrey;
+    border-color: #5a5a5a;
+    border-radius: 2px;
+    border: solid;
+    width: 80%;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+button.Delete{
+    width: 32px;
+    height: 26px;
+    background-color: #ff0000;
+    float:right;
+    margin-right: 10px;
+}
+
+button.Submit{
+    width: 32px;
+    height: 26px;
+    background-color: #5fa1ff;
+    float:right;
+    margin-left: 10px;
+}
+
+li {
+    padding: 10px;
+}
+
